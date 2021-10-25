@@ -20,7 +20,7 @@
 //         window.location.href = "./portal-B.html"
 // }
 
-let pass1 = "123456"
+let pass1 = "07-oct-2001"
 let pass2 = "08-jun-2004"
 
 function portalNav() {
